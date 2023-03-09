@@ -23,7 +23,7 @@ echo "a%b= ", $a % $b, "\n";
 
 // Kombinirani operator dodjele
 $f = $c . " - " .$d;
-echo "Konkatenacija: ", $f, "\n\n";
+echo "Konkatenacija: ", $f, "\\nn";
 
 // Operator usporedbe ( veće ili jednako )
 echo $a += $b, "\n"; 
